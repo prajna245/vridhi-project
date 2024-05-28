@@ -1,0 +1,67 @@
+{
+  "hash": "bbadd338",
+  "configHash": "3eab91cb",
+  "lockfileHash": "b8ddbab0",
+  "browserHash": "c80d422c",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "be4d8812",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "c69614ea",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "777bc182",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "56e1a2dc",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "f91636b0",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "8e0ddf96",
+      "needsInterop": false
+    },
+    "@ng-bootstrap/ng-bootstrap": {
+      "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
+      "file": "@ng-bootstrap_ng-bootstrap.js",
+      "fileHash": "ecde510d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LKVKG2IR": {
+      "file": "chunk-LKVKG2IR.js"
+    },
+    "chunk-2OULBSMG": {
+      "file": "chunk-2OULBSMG.js"
+    },
+    "chunk-TNPAM64S": {
+      "file": "chunk-TNPAM64S.js"
+    },
+    "chunk-ZRREUO4O": {
+      "file": "chunk-ZRREUO4O.js"
+    },
+    "chunk-R5H3NO4S": {
+      "file": "chunk-R5H3NO4S.js"
+    }
+  }
+}
